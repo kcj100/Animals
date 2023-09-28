@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="772e8f59-8046-40ab-9bea-3ee97fe014bc" name="Changes" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> main
 =======
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -64,6 +69,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
     "vue.rearranger.settings.migration": "true"
   }
@@ -77,8 +85,12 @@
       <option name="presentableId" value="Default" />
       <updated>1695916209834</updated>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1695916211333" duration="140000" />
       <workItem from="1695917031571" duration="162000" />
+=======
+      <workItem from="1695916211333" duration="2145000" />
+>>>>>>> main
 =======
       <workItem from="1695916211333" duration="2145000" />
 >>>>>>> main
