@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="772e8f59-8046-40ab-9bea-3ee97fe014bc" name="Changes" comment="">
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> main
+=======
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,15 +30,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2W264Choc4FN8nObkXXYMwd7F9H" />
+=======
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2W23pUWepGZNxlGukYrhRIn6cpy" />
+>>>>>>> wyattsAnimal
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,16 +62,35 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+<<<<<<< HEAD
     "git-widget-placeholder": "pig",
     "last_opened_file_path": "/Users/jinrongzhang/Desktop/APPDEV/Animals",
+=======
+<<<<<<< HEAD
+    "git-widget-placeholder": "wyattsAnimal",
+    "last_opened_file_path": "C:/Users/Student/repos/Animals",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+=======
+    "git-widget-placeholder": "main",
+>>>>>>> wyattsAnimal
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
+=======
+<<<<<<< HEAD
+>>>>>>> main
+=======
+>>>>>>> main
+>>>>>>> wyattsAnimal
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,7 +102,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695916209834</updated>
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <workItem from="1695916211333" duration="140000" />
+      <workItem from="1695917031571" duration="162000" />
+=======
       <workItem from="1695916211333" duration="2145000" />
+>>>>>>> main
+=======
+      <workItem from="1695916211333" duration="2145000" />
+>>>>>>> main
     </task>
     <servers />
   </component>
